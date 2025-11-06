@@ -16,3 +16,5 @@ M - files have changed
 Even if we delete one of the files, it still needs to be added into storage area and use commit command to let git history know that we delete that file. Otherwise the file which is deleted woulf keep stay in the  working tree.
 # The files i don't want to record the history
 Using ".gitignore" folder to place these files. Input the names of files in this folder then git would ignore it.
+# Git vs. GitHub
+Git is a version control system. GitHub is a cloud platform for storing, sharing and collaborating on Git repositories.
