@@ -3,6 +3,7 @@ Untracked - Git dosen't record edit history
 Tracked - use "git add [file name]' to put files into storage area
 Staged - use "git commit -m [Your concise commit message]" add files
 Committ
+update files from git to Github - use "git push" command
 # How to review the history
 "git log" or "got log --oneline"(simplify version)
 # Check difference: "git diff" + file ID
