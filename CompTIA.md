@@ -1,4 +1,9 @@
-# 🧰 CompTIA A+ (220-1201 / 220-1202) 學習筆記
+# 🧰 CompTIA A+ (220-1201 / 220-1202) Note
 
-這是我為準備 **最新版本 CompTIA A+ 認證考試** 所建立的 GitHub 筆記。  
-內容完全依照 2025 年最新考綱對應，涵蓋 Core 1 與 Core 2 所有主題。
+## 💾 Hardware (section 2 - section 7)
+## ☁️ Virtualization and cloud computing (section 8 - section 9)
+## 🌐 Networking (section 10 - section 15)
+## 📱 Mobile devices (section 15 - section 18)
+## 🖨️ Printers and Multifunction Devices (section 19 - section 20)
+## 🔧 Troubleshooting (section 21 - section 27) 
+
