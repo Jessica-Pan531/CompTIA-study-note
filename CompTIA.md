@@ -16,16 +16,16 @@
 - Smart devices: Incude items like smart speakers or displays which perfom specific functions. (Usually use vocal recognition.)
 - Internet of Things (IoT) Devices: Devices that connect to a network but don't fit neatly into other categories.
 ### Main components
-#### Hardware: All the physical parts of a computer.
+#### **Hardware: All the physical parts of a computer.**
 - Input devices: mice and keyboards.
 - Processing unit or graphic processing unit: CPU or GPU.
 - Storage devices: RAM or memory
 - Hard drives, solid devices and out put devices: monitors, speakers and printers.
-#### Software: All the programs and operating systems that instruct hardware on what to do.
+#### **Software: All the programs and operating systems that instruct hardware on what to do.**
 - Operating systems: Windows, Mac or Linux.
 - Application software: Microsoft Word or PowerPoint.
 - Drivers: The things that help the operating systems communicatewith the underlying hardware od a computer system.
-#### Firmware: Software embedded in hardware component.
+#### **Firmware: Software embedded in hardware component.**
 - Often referred to as software on a chip which can be updated through a process known as flashing. 
 ## ☁️ Virtualization and cloud computing (section 8 - section 9)
 ## 🌐 Networking (section 10 - section 15)
