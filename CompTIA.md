@@ -15,7 +15,8 @@
 - Smartphones: Smaller versions of tablets that also function as a phone.
 - Smart devices: Incude items like smart speakers or displays which perfom specific functions. (Usually use vocal recognition.)
 - Internet of Things (IoT) Devices: Devices that connect to a network but don't fit neatly into other categories.
-### Main components
+#### Main components
+---
 #### Hardware: All the physical parts of a computer.
 - Input devices: mice and keyboards.
 - Processing unit or graphic processing unit: CPU or GPU.
