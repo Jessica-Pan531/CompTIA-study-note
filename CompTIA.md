@@ -73,24 +73,24 @@ arsenic
 functionality.
 - Follow a systematic and repeatable process to allow other technicians to understand the steps taken and continue troubleshooting.
 ### CompTIA Six-Step Troubleshooting Methodology
-- Step 1: Identify the Problem.
+- Step 1: Identify the Problem
 -- Gather information from the user   
 -- Identify user changes   
 -- Perform backups before making changes   
 -- Determine environmental or infrastructure changes 
-- Step 2: Establish a Theory of Probable Cause.
+- Step 2: Establish a Theory of Probable Cause
 -- Question the obvious
 -- Research symptoms through resources like search engines or AI chatbots.
-- Step 3: Test the Theory to Determine the Cause.
+- Step 3: Test the Theory to Determine the Cause
 -- Confirm or disprove the theory by testing.  
 -- Reestablish a theory or escalate the issue if the theory is not confirmed.
-- Step 4: Establish a Plan of Action to Resolve the Problem and Implement the Solution.
+- Step 4: Establish a Plan of Action to Resolve the Problem and Implement the Solution
 -- Create a plan to address the identified issue.   
 -- Follow manufacturer or vendor instructions when applicable.
-- Step 5: Verify Full System Functionality and Implement Preventative Measures.
+- Step 5: Verify Full System Functionality and Implement Preventative Measures
 -- Test the system to ensure the issue is resolved.
 -- Apply preventative measures to avoid future occurrences.
-- Step 6: Document Findings, Actions, and Outcomes.
+- Step 6: Document Findings, Actions, and Outcomes
 -- Record the problem, solution, and results in the appropriate system.
 ### Examples for Key Steps
 - Step 1: If a system won’t power on, gather details from the user and check for environmental changes like power outages.
