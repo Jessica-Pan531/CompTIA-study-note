@@ -180,6 +180,9 @@ feet).
 ### USB Type B
 #### Used for larger devices like printers   
 #### Includes three variations
+- Type B Connector: Square with rounded corners on top.
+- Type B Mini Connector: Trapezoid shape; found on early tablets and smartphones.
+- Type B Micro Connector: Shorter, skinnier version; used for wearables, smart glasses, and small music players.
 #### USB 3 Type B connectors have a square shape with an additional rectangular section on top, unlike USB 2 Type B connectors   
 #### USB 3 Type B micro connectors resemble a figure eight, differing from the trapezoid-like USB 2 Type B micro connectors 
 ### USB Type C
