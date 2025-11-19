@@ -222,21 +222,150 @@ feet).
 - Supports up to 4K resolution and beyond. Data transfer speeds up to 20 Gbps. 
 - Backward compatibility with HDMI and DVI using adapters.
 ### DVI (Digital Visual Interface)
+#### Description: An older standard that supports both analog and digital video signals.
+#### Common Uses: Older monitors and legacy systems.
+#### Connector Types
+- DVI-A: Supports analog signals only. DVI-D: Supports digital signals only.
+- DVI-I: Supports both analog and digital signals.
+#### Features
+- Limited to 1080p resolution. 
+- No native support for audio.
 ### VGA (Video Graphics Array)
+#### Description
+- An analog video connection standard, widely used before digital connections became dominant.
+#### Common Uses
+- Older computers, projectors, and government or industrial legacy systems.
+#### Connector Characteristics
+- 15-pin D-sub connector in a trapezoidal shape. 
+- Carries analog signals for red, green, and blue colors separately.
+#### Limitations
+- Maximum resolution of 640x480 pixels. 
+- Susceptible to signal degradation and interference over long distances.
 ### Thunderbolt
+#### Description
+- A high-speed interface developed by Intel and Apple that supports video, data, and power over a single connection.
+#### Common Uses
+- High-performance laptops, professional workstations, and data storage devices.
+#### Versions
+- Thunderbolt 1 and 2: Use Mini DisplayPort connectors.
+- Thunderbolt 3 and 4: Use USB Type-C connectors, offering speeds up to 40 Gbps.
+#### Features
+- Compatible with DisplayPort and USB-C devices. 
+- Short cable lengths (up to 0.5 meters for max speeds).
 ### USB Type-C
+#### Description
+- A versatile connector that supports video, data, and power delivery.
+#### Common Uses
+- Modern laptops, tablets, smartphones, and docking stations.
+#### Features
+- Supports DisplayPort Alternate Mode for video transmission. 
+- Reversible connector design for easy plug-in. 
+- Capable of supporting 4K and 8K video resolutions.
+#### Advantages
+- Reduces cable clutter by combining power, video, and data into a single connection. 
+- Widely adopted in modern electronics.
 ### Key Considerations for Video Cables
+- Resolution Compatibility: Ensure the cable supports the desired resolution (e.g., 1080p, 4K, 8K).
+- Refresh Rates: Choose cables that match the display’s refresh rate (e.g., 60 Hz, 120 Hz, 144 Hz). 
+- Connector Compatibility: Use adapters or compatible cables when connecting older devices to newer displays.
+- Cable Length: Longer cables may degrade signal quality, especially for high-speed connections.
 ### Summary
+- HDMI: Most common, supports high-definition video/audio, HDCP, and up to 8K resolution. 
+- DisplayPort: Open standard with high-speed capabilities, commonly used in PC 
+environments.  
+- DVI: Older standard supporting both analog and digital signals.  
+- VGA: Legacy analog interface, still found in older systems.  
+- Thunderbolt: High-speed interface supporting video, data, and power, now using USB-C connectors. 
+- USB-C: Multipurpose connector supporting video, power, and data with high resolutions.
 ## Storage Cables
 ### Storage Cables
+- Cables used to connect storage devices such as hard drives, solid-state drives (SSDs), and optical drives to computers, enabling data transfer between the device and system.
 ### Thunderbolt
+#### Description
+- High-speed connection interface supporting data, video, and power transfer.
+#### Versions
+- Thunderbolt 1 & 2: Use DisplayPort connectors 
+- Thunderbolt 3 & 4: Use USB-C connectors
+#### Speed
+- Up to 40 Gbps.
+#### Limitations
+- Short cable length (under 2 feet).
+#### Compatibility
+- Thunderbolt 3 supports USB-C devices. 
+- Thunderbolt 4 fully compatible with USB 4.
 ### Lightning
+- Description: Proprietary cable designed by Apple for mobile devices. 
+- Common Uses: iPhones, iPads, and accessories. 
+- Connector Type: Reversible Lightning connector on one end, USB Type-A or USB-C on the other. 
+- Limitations: Exclusive to Apple devices, not cross-compatible with other 
+ecosystems.
 ### SATA (Serial Advanced Technology Attachment)
+#### Description
+- Standard internal storage connection used in desktops and laptops.
+#### Connector Types
+- SATA Data Cable: 7-pin L-shaped connector. 
+- SATA Power Cable: 15-pin connector.
+#### Versions and Speeds
+- SATA I: 1.5 Gbps 
+- SATA II: 3 Gbps 
+- SATA III: 6 Gbps
+#### Common Uses 
+- Internal hard drives, SSDs, and optical drives. 
+#### Limitations 
+- Device speed is often the bottleneck, not the cable itself.
 ### eSATA (External SATA)
+- Description: External version of SATA for connecting external drives. 
+- Speed: Up to 6 Gbps (SATA III).  
+- Advantages: Faster than older USB 2.0 connections. 
+- Disadvantages: Less common due to advances in USB technology. 
+- Use Cases: External hard drives requiring high-speed data transfers.
 ### SCSI (Small Computer Systems Interface)
+#### Description 
+- Legacy storage interface for connecting multiple devices.  
+#### Versions 
+- Narrow SCSI: Supports up to 7 devices 
+- Wide SCSI: Supports up to 15 devices 
+#### Speeds 
+- Up to 320 Mbps 
+#### Connector Types 
+- 68-pin high-density cable (requires separate power) 
+- 80-pin SCA (Single Connector Attachment) combining power and 
+data  
+#### Common Uses 
+- Legacy enterprise systems, older servers, and data centers. 
+#### Limitations 
+- Slower than modern SATA and SAS alternatives. 
 ### SAS (Serial Attached SCSI)
+#### Description 
+- Modern enterprise-grade storage connection used in high-performance environments. 
+#### Speed 
+- Up to 24 Gbps 
+#### Advantages 
+- Supports full duplex communication 
+- Backward compatible with SATA drives 
+- Scalable, supporting up to 128 devices per controller 
+- Designed for continuous 24/7 operation with high reliability 
+#### Common Uses 
+- Enterprise data centers, servers, and mission-critical applications
 ### Key Considerations for Storage Cables
-### Summary 
+#### Speed Requirements 
+- Choose the appropriate cable to match the performance needs of 
+the storage device 
+#### Compatibility 
+- Ensure that the cable matches the device and system interface 
+#### Power Needs 
+- Some cables require a separate power connection, such as SATA, 
+while others integrate power and data 
+#### Cable Length
+- Longer cables can result in signal degradation, affecting performance.
+### Summary
+- Thunderbolt: Longer cables can result in signal degradation, affecting performance. 
+- High-speed, versatile, up to 40 Gbps, with versions 3 and 4 using USB-C connectors. 
+- Lightning: Apple-exclusive connector for mobile devices, reversible design. 
+- SATA: Primary internal storage connection, uses separate data and power cables, speeds up to 6 Gbps. 
+- eSATA: External version of SATA, once popular but now largely replaced by USB 3/4.  
+- SCSI: Legacy technology, used in older systems, slower than modern alternatives. 
+- SAS: High-speed enterprise solution, scalable, and reliable for critical applications. 
 
 # ☁️ Virtualization and cloud computing (section 8 - section 9)
 # 🌐 Networking (section 10 - section 15)
