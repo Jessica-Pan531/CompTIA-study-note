@@ -124,6 +124,17 @@ functionality.
 ---
 # 2️⃣ Cable Types
 ## Cable Types
+- Computers measure data transfer and storage using either bits or bytes.
+- Bit: Refers to a binary digit；A single bit can store only one of two values(1 or 0).
+- Nibble: Four bits thatare combined together.
+- Byte: Contains eight bits.
+- 1 Kilobits(Kb) = 1000 bits
+- 1 Megabits(Mb) = 1000 Kb
+- 1 Gigabits(Gb) = 1000 Mb
+- 1 Terabits(Tb) = 1000 Gb
+- Storing data is written in terms of bytes.
+- **Data Transfer**: Bits
+- **Data Storage**: Bytes
 ## Exterior of a PC: A Demonstration
 ## USB Cables
 ### USB (Universal Serial Bus)
@@ -181,6 +192,7 @@ feet).
 #### Used for larger devices like printers   
 #### Includes three variations
 - Type B Connector: Square with rounded corners on top.
+![USB Type-B connectors](type b.jpg)
 - Type B Mini Connector: Trapezoid shape; found on early tablets and smartphones.
 - Type B Micro Connector: Shorter, skinnier version; used for wearables, smart glasses, and small music players.
 #### USB 3 Type B connectors have a square shape with an additional rectangular section on top, unlike USB 2 Type B connectors   
