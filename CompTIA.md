@@ -188,20 +188,26 @@ feet).
 - Flat rectangular connector used in USB 1.0, 1.1, 2.0, 3.0, and above.
 - Connects only in one direction due to a blocking piece inside the port.   
 - Commonly found on desktops and laptops.
+![alt text](<usb a.PNG>)
 ### USB Type B
 #### Used for larger devices like printers   
 #### Includes three variations
 - Type B Connector: Square with rounded corners on top.
 ![alt text](<type b.jpg>)
 - Type B Mini Connector: Trapezoid shape; found on early tablets and smartphones.
+![alt text](<mini b.PNG>)
 - Type B Micro Connector: Shorter, skinnier version; used for wearables, smart glasses, and small music players.
-#### USB 3 Type B connectors have a square shape with an additional rectangular section on top, unlike USB 2 Type B connectors   
+![alt text](<micro b.jpg>)
+#### USB 3 Type B connectors have a square shape with an additional rectangular section on top, unlike USB 2 Type B connectors  
+![alt text](<usb 3 type b.jpg>) 
 #### USB 3 Type B micro connectors resemble a figure eight, differing from the trapezoid-like USB 2 Type B micro connectors 
+![alt text](<usb 3 type b micro.jpg>)
 ### USB Type C
 - Small oval-shaped connector   
 - Compatible with USB 3 and USB 4   
 - Reversible design allows insertion in either direction   
 - Commonly used in modern laptops, tablets, and smartphones
+![alt text](<usb c.jpg>)
 ### Compatibility Notes
 - USB 2 and USB 3 connectors of the same type (e.g., Type B or Type B Micro) are not interchangeable.   
 - Always use the correct USB type for proper functionality.
